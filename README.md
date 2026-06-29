@@ -119,3 +119,244 @@ Beyond academics, I have represented at the **National Level in Rifle Shooting**
 - 📚 Research Publications
 
 ---
+
+
+
+# > tech_stack/
+
+<div align="center">
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark"/>
+</p>
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+</p>
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark"/>
+</p>
+
+## ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+# > cybersecurity_dashboard/
+
+<img src="assets/dashboard.svg" width="100%">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Threat Hunting              █████████░░
+
+Digital Forensics           ███████░░░░
+
+Privacy Engineering         ██████████░
+
+Ethical Hacking             ███████░░░░
+
+Artificial Intelligence     ██████████░
+
+Machine Learning            █████████░░
+
+Cloud Computing             ████████░░░
+
+Data Structures             █████████░░
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > cybersecurity_arsenal/
+
+### Operating Systems
+
+- Linux
+- Kali Linux
+- Windows
+
+### Networking
+
+- Wireshark
+- Nmap
+- TCP/IP
+- DNS
+- HTTP / HTTPS
+
+### Security
+
+- Burp Suite
+- OWASP Top 10
+- Browser Security
+- Digital Fingerprinting
+- Web Privacy
+- Malware Analysis (Learning)
+
+### Development
+
+- Chrome Extension Development
+- Git & GitHub
+- REST APIs
+
+---
+
+# > research/
+
+<img src="assets/research.svg" width="100%">
+
+---
+
+## 🔴 REDFLAG
+
+### Detection of Third-Party Web Tracking for Enhanced User Privacy
+
+**Area**
+
+- Browser Security
+- Privacy Engineering
+- Web Fingerprinting
+
+**Tech Stack**
+
+- JavaScript
+- Chrome Extensions API
+- HTML
+- CSS
+
+**Status**
+
+🟢 Under Development
+
+---
+
+## ⚡ STEAL.Net
+
+### Smart Time-series Energy Analysis using Learning Networks
+
+**Area**
+
+- Energy Forecasting
+- Artificial Intelligence
+- Deep Learning
+
+**Models**
+
+- TCN
+- LSTM
+- GRU
+- XGBoost
+
+**Status**
+
+🟢 Research Paper
+
+---
+
+## ☀️ Solar PV Forecasting
+
+### Benchmarking Deep Learning and Ensemble Methods for Short-Term Solar PV Forecasting Under Training Data Scarcity: A Statistically Rigorous Multi-Plant Study
+
+**Area**
+
+- Renewable Energy
+- Deep Learning
+- Ensemble Learning
+
+**Models**
+
+- LSTM
+- GRU
+- TCN
+- Random Forest
+- XGBoost
+
+**Status**
+
+🟢 Research
+
+---
+
+# > certifications/
+
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| AWS Cloud | ✅ |
+| Google AI | ✅ |
+| Responsible AI | ✅ |
+| Python Programming | ✅ |
+| Front-End Development | ✅ |
+
+</div>
+
+---
+
+# > currently_learning/
+
+```bash
+ashutosh@github:~$ learning --status
+```
+
+```yaml
+Current Focus:
+
+- Digital Forensics
+
+- Kali Linux
+
+- Malware Analysis
+
+- Penetration Testing
+
+- Machine Learning
+
+- Browser Security
+
+- Data Structures & Algorithms
+
+Progress:
+
+████████░░
+```
+
+---
+
+# > mission/
+
+> Build secure, privacy-focused systems powered by Artificial Intelligence while contributing meaningful research in Cybersecurity and Energy Forecasting.
+
+---
+
+# > philosophy/
+
+> **"Curiosity drives discovery. Discipline builds mastery. Consistency creates impact."**
+
+---
