@@ -140,7 +140,10 @@ const ashutosh = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SniperPhantom23?theme=dark&font=Baloo+2&ext=heatmap&border=1&border_color=00ff41)](https://leetcode.com/u/SniperPhantom23/)
 
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/SniperPhantom23?theme=dark&bgColor=0d1117&border=00ff41)](https://leetcode.com/u/SniperPhantom23/)
+[![Solved](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Problems%20Solved&query=$.totalSolved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SniperPhantom23/)
+[![Easy](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Easy&query=$.easySolved&color=00b8a3&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
+[![Medium](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Medium&query=$.mediumSolved&color=FFA116&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
+[![Hard](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Hard&query=$.hardSolved&color=EF4743&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
 </td>
 
 <!-- ===== GFG FLASHCARD ===== -->
