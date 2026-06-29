@@ -219,3 +219,10 @@ Cyber-themed Interactive Portfolio
 # ⚡ Fun Fact
 
 I enjoy building secure systems, solving algorithmic challenges, researching AI, and competing in rifle shooting.
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sniperphantom02/sniperphantom02/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
