@@ -140,10 +140,8 @@ const ashutosh = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SniperPhantom23?theme=dark&font=Baloo+2&ext=heatmap&border=1&border_color=00ff41)](https://leetcode.com/u/SniperPhantom23/)
 
-[![Solved](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Problems%20Solved&query=$.totalSolved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SniperPhantom23/)
-[![Easy](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Easy&query=$.easySolved&color=00b8a3&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
-[![Medium](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Medium&query=$.mediumSolved&color=FFA116&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
-[![Hard](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/SniperPhantom23&label=Hard&query=$.hardSolved&color=EF4743&style=for-the-badge)](https://leetcode.com/u/SniperPhantom23/)
+[![LeetCode Streak](https://streak-stats.demolab.com?user=SniperPhantom02&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=888888&sideLabels=00ff41)](https://leetcode.com/u/SniperPhantom23/)
+
 </td>
 
 <!-- ===== GFG FLASHCARD ===== -->
@@ -168,9 +166,10 @@ const ashutosh = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperPhantom02&theme=nord_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperPhantom02&theme=github_dark" width="48%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SniperPhantom02&theme=nord_dark" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SniperPhantom02&theme=github_dark" width="40%" />
+
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SniperPhantom02&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%"/>
