@@ -1,26 +1,69 @@
-name: Generate Snake
+# =====================================================
+#   GitHub Actions Workflow — Snake Contribution Graph
+#   Place this file at:
+#   .github/workflows/snake.yml
+#   in your SniperPhantom02 repo
+# =====================================================
+#
+# HOW IT WORKS:
+#   - Runs automatically every 24 hours (midnight UTC)
+#   - Also runs every time you push to main/master
+#   - You can also trigger it manually from Actions tab
+#   - Generates snake SVG and saves to assets/ folder
+#   - Your README already points to these files
+#
+# IF SNAKE IS NOT SHOWING:
+#   1. Go to your repo → Settings → Actions → General
+#   2. Set "Workflow permissions" to "Read and write permissions"
+#   3. Save → then re-run the workflow manually
+# =====================================================
+
+name: Generate Snake Animation
 
 on:
+  # Auto-run every day at midnight UTC
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"
 
-permissions:
-  contents: write
+  # Run on every push to main or master
+  push:
+    branches:
+      - main
+      - master
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   generate:
+    name: Generate Snake SVG
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: sniperphantom02
-          outputs: dist/github-contribution-grid-snake.svg
+    permissions:
+      contents: write  # needed to push the generated SVG back to repo
 
-      - uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      # Step 1: Checkout your repo
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake SVGs (light + dark theme)
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: SniperPhantom02
+
+          # Output paths — README already uses these exact paths
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Step 3: Push the generated SVGs back to the repo
+      - name: Push Snake to Repository
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: main          # change to master if your default branch is master
+          add: "assets/github-contribution-grid-snake*.svg"
+          message: "chore: update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
