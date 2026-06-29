@@ -360,3 +360,214 @@ Progress:
 > **"Curiosity drives discovery. Discipline builds mastery. Consistency creates impact."**
 
 ---
+
+
+
+
+# > featured_projects/
+
+<img src="assets/projects.svg" width="100%"/>
+
+<div align="center">
+
+| 🚀 Project | Description | Status |
+|------------|-------------|--------|
+| 🔴 **REDFLAG** | Browser extension for detecting third-party tracking & browser fingerprinting while enhancing user privacy. | 🟢 In Development |
+| ⚡ **STEAL.Net** | Hybrid Deep Learning architecture for short-term energy demand forecasting using temporal models. | 🟢 Research |
+| ☀️ **Solar PV Forecasting** | Benchmarking Deep Learning & Ensemble Models under limited training data for Solar PV forecasting. | 🟢 Research |
+| 🌐 **Personal Portfolio** | Interactive cyber-themed developer portfolio showcasing projects, research and achievements. | 🚧 Updating |
+
+</div>
+
+---
+
+# > achievements/
+
+<img src="assets/achievements.svg" width="100%"/>
+
+## 🏆 Competitive & Academic Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| 🥇 Gold Medalist | URJA, TIET Rifle Shooting Competition |
+| 🎯 National Level Finalist | 50m Rifle Shooting |
+| 💻 Hackowasp 8.0 Finalist | TIET Flagship Cybersecurity Hackathon |
+| ⭐ Best NCC Cadet | Awarded for Two Consecutive Years |
+| 🏏 Vice Captain | School Cricket Team |
+| 📜 Professional Certifications | AWS Cloud • Google AI • Responsible AI • Python • Front-End Development |
+
+---
+
+## > research_publications/
+
+### 📄 Detection of Third-Party Web Tracking for Enhanced User Privacy
+
+> Browser Privacy • Cybersecurity • Web Tracking
+
+---
+
+### 📄 STEAL.Net : Smart Time-Series Energy Analysis using Learning Networks
+
+> Artificial Intelligence • Energy Forecasting • Deep Learning
+
+---
+
+### 📄 Benchmarking Deep Learning and Ensemble Methods for Short-Term Solar PV Forecasting Under Training Data Scarcity: A Statistically Rigorous Multi-Plant Study
+
+> Renewable Energy • Machine Learning • Time Series Forecasting
+
+---
+
+# > beyond_code/
+
+<img src="assets/hobbies.svg" width="100%"/>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🥁 Music
+
+Learning **Indian Classical Tabla** since the age of **5**, developing rhythm, discipline and consistency.
+
+</td>
+
+<td width="50%">
+
+### 🎯 Precision Sports
+
+National-Level Rifle Shooter with a strong passion for precision, patience and continuous improvement.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏏 Cricket
+
+Former Vice-Captain of the School Cricket Team and an enthusiastic team player.
+
+</td>
+
+<td>
+
+### 📖 Reading
+
+Interested in History, Geopolitics and emerging technologies.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🌌 Space
+
+Fascinated by Astronomy, Space Exploration and Cosmology.
+
+</td>
+
+<td>
+
+### 🎵 Music
+
+Enjoy discovering new music while coding and researching.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# > current_focus/
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔐 Cybersecurity
+
+████████████░
+
+🤖 Artificial Intelligence
+
+███████████░
+
+📚 Research
+
+████████████
+
+🧠 Deep Learning
+
+██████████░░
+
+💻 Competitive Programming
+
+█████████░░░
+
+🌐 Privacy Engineering
+
+███████████░
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > 2026_goals/
+
+- 🚀 Publish multiple research papers in reputed conferences
+- 🛡 Build and deploy REDFLAG Browser Extension
+- 📈 Strengthen expertise in Digital Forensics & Cybersecurity
+- ☁️ Expand knowledge in Cloud Security & AI
+- 🧩 Solve 1000+ DSA problems
+- 🌍 Contribute to impactful Open Source Projects
+- 🎓 Continue building projects that solve real-world problems
+
+---
+
+# > collaboration/
+
+## 🤝 Open for Collaboration
+
+I'm always interested in collaborating on projects involving:
+
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🌐 Privacy Engineering
+- ⚡ Energy Forecasting
+- 🧠 Deep Learning
+- 📚 Research Projects
+
+Feel free to connect through LinkedIn or Email if you'd like to collaborate.
+
+---
+
+# > fun_fact/
+
+```bash
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Research();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
