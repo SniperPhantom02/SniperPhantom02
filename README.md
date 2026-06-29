@@ -149,7 +149,7 @@ const ashutosh = {
 
 ### 🟢 GeeksForGeeks
 
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sharmaashu6jjy&theme=dark)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
+[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
 
 ![Coding Score](https://img.shields.io/badge/Coding%20Score-155-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
@@ -166,9 +166,9 @@ const ashutosh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SniperPhantom02&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperPhantom02&theme=github_dark" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SniperPhantom02&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SniperPhantom02&theme=github_dark" width="40%" />
 
 <br/><br/>
 
