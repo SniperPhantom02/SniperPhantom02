@@ -140,8 +140,7 @@ const ashutosh = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SniperPhantom23?theme=dark&font=Baloo+2&ext=heatmap&border=1&border_color=00ff41)](https://leetcode.com/u/SniperPhantom23/)
 
-![LC Contributions](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/SniperPhantom23&label=Total%20Contributions&query=$.totalSolved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)
-![LC Submissions](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/SniperPhantom23&label=Submissions%20%281Y%29&query=$.recentSubmissions&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)
+[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/SniperPhantom23?theme=dark&bgColor=0d1117&border=00ff41)](https://leetcode.com/u/SniperPhantom23/)
 </td>
 
 <!-- ===== GFG FLASHCARD ===== -->
