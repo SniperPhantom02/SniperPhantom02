@@ -257,7 +257,7 @@ const ashutosh = {
 -->
 
 <details>
-<summary><b>📑 Paper 1 — [Title Coming Soon]</b></summary>
+<summary><b>📑 Paper 1 — [RedFlag]</b></summary>
 
 <br/>
 
@@ -266,7 +266,7 @@ const ashutosh = {
 </details>
 
 <details>
-<summary><b>📑 Paper 2 — [Title Coming Soon]</b></summary>
+<summary><b>📑 Paper 2 — [Steal.Net]</b></summary>
 
 <br/>
 
