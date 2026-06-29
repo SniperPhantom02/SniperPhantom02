@@ -571,3 +571,128 @@ while(alive){
 ```
 
 ---
+
+
+
+
+# > github_analytics/
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sniperphantom02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniperphantom02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=sniperphantom02&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sniperphantom02&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sniperphantom02&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# > coding_profiles_live/
+
+<div align="center">
+
+## 💻 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/SniperPhantom23?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌳 GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/sharmaashu6jjy/">
+<img src="https://img.shields.io/badge/View%20My%20GeeksforGeeks%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# > profile_views/
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sniperphantom02&style=for-the-badge&color=brightgreen"/>
+
+</div>
+
+---
+
+# > contribution_snake/
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sniperphantom02/sniperphantom02/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# > developer_quote/
+
+<div align="center">
+
+> *"Code with curiosity. Research with rigor. Build with purpose."*
+
+</div>
+
+---
+
+# > support/
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories when they go live!
+
+</div>
+
+---
+
+# > thanks/
+
+<div align="center">
+
+## Thanks for visiting my profile.
+
+<img src="assets/footer.svg" width="100%"/>
+
+### 🚀 Keep Learning • Keep Building • Keep Exploring
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:00ff88&section=footer"/>
+
+</div>
