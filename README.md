@@ -30,7 +30,7 @@
 <!-- ========== MATRIX RAIN HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Ashutosh%20Sharma&fontSize=60&fontColor=00ff41&fontAlignY=55&desc=CSE%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Privacy%20Engineering&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Ashutosh%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=CSE%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Privacy%20Engineering&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -151,7 +151,7 @@ const ashutosh = {
 
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sharmaashu6jjy&theme=dark)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
 
-[![GFG Streak](https://img.shields.io/badge/Profile-sharmaashu6jjy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
+![Coding Score](https://img.shields.io/badge/Coding%20Score-155-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 </td>
 </tr>
