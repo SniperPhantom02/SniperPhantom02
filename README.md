@@ -151,7 +151,7 @@ const ashutosh = {
 
 [![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
 
-![Coding Score](https://img.shields.io/badge/Coding%20Score-155-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
 
 </td>
 </tr>
