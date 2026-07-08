@@ -140,6 +140,8 @@ const ashutosh = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SniperPhantom23?theme=dark&font=Baloo+2&ext=heatmap&border=1&border_color=00ff41)](https://leetcode.com/u/SniperPhantom23/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SniperPhantom02&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=888888&sideLabels=00ff41)](https://github.com/SniperPhantom02)
+
 
 </td>
 
