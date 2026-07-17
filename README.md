@@ -150,8 +150,7 @@ const ashutosh = {
 
 ### 🟢 GeeksForGeeks
 
-[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy) 
-
+<!--[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy) -->
 
 
 </td>
