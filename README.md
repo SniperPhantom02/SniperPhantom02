@@ -145,8 +145,8 @@ const ashutosh = {
 
 </td>
 
-<!-- ===== GFG FLASHCARD ===== -->
-<!--<td align="center" width="50%">
+ ===== GFG FLASHCARD =====
+<td align="center" width="50%">
 
 ### 🟢 GeeksForGeeks
 
@@ -158,7 +158,7 @@ const ashutosh = {
 </tr>
 </table>
 
-</div>-->
+</div>
 
 ---
 
