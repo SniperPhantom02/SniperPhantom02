@@ -145,10 +145,7 @@ const ashutosh = {
 
 </td>
 
- ===== GFG FLASHCARD =====
-<td align="center" width="50%">
 
-### 🟢 GeeksForGeeks
 
 <!--[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy) -->
 
