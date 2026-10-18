@@ -6,7 +6,7 @@
   SECTIONS (in order):
   1. Matrix Rain Header (SVG)
   2. Profile Pic + Name + Tagline
-  3. Mission / Philosophy (from your notes)
+  3. Mission / Philosophy
   4. About Me
   5. Tech Stack (with icons)
   6. Coding Profiles + Live Streak Flashcards (LeetCode & GFG)
@@ -20,7 +20,7 @@
 ===========================================
   TO ADD MORE IN FUTURE:
   - New project? Duplicate a project card block under Section 7
-  - New cert? Add inside the <details> block under Section 9
+  - New cert? Add a row inside the <details> block under Section 9
   - New research paper? Add inside the <details> block under Section 8
   - New language/tool? Add a shield badge under Section 5
   - New social? Add an anchor tag under Section 12
@@ -48,6 +48,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SniperPhantom23/)
 &nbsp;
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
+&nbsp;
+<!-- CREDLY + GOOGLE SKILLS: paste your profile URLs, then uncomment these two lines
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
+&nbsp;
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-4285F4?style=flat-square&logo=google&logoColor=white)](YOUR_GOOGLE_SKILLS_PROFILE_URL)
+-->
 
 </div>
 
@@ -80,7 +86,7 @@ const ashutosh = {
   name      : "Ashutosh Sharma",
   role      : "CSE Student @ Thapar Institute of Engineering & Technology",
   focus     : ["Cybersecurity", "AI/ML", "Privacy Engineering", "Digital Forensics"],
-  building  : ["Privacy-preserving browser tech", "AI-based forecasting models"],
+  building  : ["Privacy-preserving browser tech", "AI-based forecasting models", "LLM authorization defenses"],
   music     : "YouTube Music 🎵",  // not Spotify
   fun_fact  : "National-level Rifle Shooter 🎯 | Tabla since age 5 🥁",
 };
@@ -114,7 +120,7 @@ const ashutosh = {
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-6A0DAD?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-6A0DAD?style=for-the-badge&logoColor=white)
 ![Privacy Engineering](https://img.shields.io/badge/Privacy%20Engineering-1572B6?style=for-the-badge&logo=tor-project&logoColor=white)
 
 ---
@@ -125,7 +131,6 @@ const ashutosh = {
 <!-- 
   LIVE STATS — These auto-update from LeetCode & GFG APIs.
   LeetCode card: github.com/JeremyTsaii/leetcode-stats-card
-  GFG card: github.com/denvercoder1/github-readme-streak-stats style
   No manual update needed — streaks pull live data.
 -->
 
@@ -142,15 +147,11 @@ const ashutosh = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SniperPhantom02&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=888888&sideLabels=00ff41)](https://github.com/SniperPhantom02)
 
-
 </td>
 
-
-
-<!--[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy) -->
-
-
-</td>
+<!-- GFG card (disabled for now). To enable, move it inside a new <td> here:
+[![GFG Stats](https://gfgstatscard.vercel.app/sharmaashu6jjy?theme=dark&hide=streak,monthly)](https://www.geeksforgeeks.org/profile/sharmaashu6jjy)
+-->
 </tr>
 </table>
 
@@ -180,7 +181,7 @@ const ashutosh = {
 
 <!--
   TO ADD A NEW PROJECT:
-  Duplicate one of the table rows below and update:
+  Duplicate one of the <td> blocks below and update:
   - Project name
   - Description
   - Tech stack badges
@@ -213,24 +214,41 @@ const ashutosh = {
 
 </td>
 
-<!-- ===== PROJECT 2: STEAL.Net ===== -->
+<!-- ===== PROJECT 2: STEAL-Net ===== -->
 <td width="50%" valign="top">
 
-<h3 align="center">🕸️ STEAL.Net</h3>
+<h3 align="center">⚡ STEAL-Net</h3>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Under%20Review-blueviolet?style=flat-square)
 
 </div>
 
-> A network privacy and data interception research project — exploring how data flows across networks and how to build defenses against unauthorized extraction.
+> A Spatio-Temporal Energy-Aware Lightweight Network for scalable and sustainable energy demand forecasting. The accompanying paper is currently under review.
 
 **Tech Stack:**
 
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ===== PROJECT 3: POLARIS ===== -->
+<td width="100%" valign="top" colspan="2">
+
+<h3 align="center">🧭 Polaris</h3>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square)
+
+</div>
+
+> Rule-Level Semantic Defense Against Manipulated Privacy Policies in LLM-Based Authorization.
 
 </td>
 
@@ -263,24 +281,41 @@ const ashutosh = {
 </details>
 
 <details>
-<summary><b>📑 Paper 2 — [Steal.Net]</b></summary>
+<summary><b>📑 Paper 2 — STEAL-Net: Energy Demand Forecasting</b> &nbsp; <img src="https://img.shields.io/badge/Status-Under%20Review-blueviolet?style=flat-square"/></summary>
 
 <br/>
 
-> Details to be added. *(Add paper title, abstract, conference/journal, and publication link here.)*
+**Full Title:** STEAL-Net: A Spatio-Temporal Energy-Aware Lightweight Network for Scalable and Sustainable Energy Demand Forecasting
+
+**Status:** Under review
+
+**Domain:** AI/ML · Energy Forecasting · Spatio-Temporal Modeling
 
 </details>
 
-<details>
-<summary><b>📑 Paper 3 — Benchmarking Deep Learning & Ensemble Methods for Short-Term Solar PV Forecasting</b></summary>
+<details open>
+<summary><b>📑 Paper 3 — Solar PV Power Forecasting Under Data Scarcity</b> &nbsp; <img src="https://img.shields.io/badge/Status-Accepted-brightgreen?style=flat-square"/></summary>
 
 <br/>
 
-**Full Title:** Benchmarking Deep Learning and Ensemble Methods for Short-Term Solar PV Forecasting Under Training Data Scarcity: A Statistically Rigorous Multi-Plant Study
+**Full Title:** Solar PV Power Forecasting Under Data Scarcity: A Multi-Model, Multi-Plant Benchmark
+
+**Status:** ✅ Accepted for presentation at the **2026 IEEE 20th International Conference on Industrial and Information Systems (ICIIS)**
 
 **Focus:** Comparative analysis of deep learning vs ensemble approaches for solar photovoltaic energy forecasting, evaluated under constrained training data conditions across multiple plant sites with statistical rigor.
 
 **Domain:** AI/ML · Energy Forecasting · Solar PV · Time Series Analysis
+
+</details>
+
+<details>
+<summary><b>📑 Paper 4 — Polaris</b> &nbsp; <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/></summary>
+
+<br/>
+
+**Title:** Polaris: Rule-Level Semantic Defense Against Manipulated Privacy Policies in LLM-Based Authorization
+
+**Status:** Ongoing
 
 </details>
 
@@ -302,11 +337,29 @@ const ashutosh = {
 
 <br/>
 
+**Courses & Certifications**
+
 | Badge | Certificate | Issuer |
 |-------|-------------|--------|
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introduction to Cybersecurity | Cisco |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | AWS Academy Graduate — Cloud Foundations | Amazon Web Services (AWS) |
 | ![CodingNinjas](https://img.shields.io/badge/Coding%20Ninjas-FF6B35?style=flat-square&logoColor=white) | Front End / Full Stack Development | Coding Ninjas |
+
+**Hackathons**
+
+<!-- TO ADD MORE HACKATHONS: add a new | row below -->
+
+| Badge | Certificate | Organizer |
+|-------|-------------|-----------|
+| ![Hackathon](https://img.shields.io/badge/Cyber%20AI%20Hackathon-2026-005EB8?style=flat-square) | **Cyber AI Hackathon 2026** — Certificate of Participation (10–11 Oct 2026, online) · Team Omnitrix (T034) · ID: `CyberAI2026/Participant/027` | University of Derby, UK · Technically supported by American Society for Engineers (AMSE), USA |
+
+<!-- CREDLY + GOOGLE SKILLS: paste your profile URLs, then uncomment this block
+**Verified Profiles**
+
+[![Credly](https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
+&nbsp;
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-View%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_GOOGLE_SKILLS_PROFILE_URL)
+-->
 
 </details>
 
@@ -316,14 +369,15 @@ const ashutosh = {
 ## 🏆 Achievements
 
 <!--
-  TO ADD MORE: duplicate a bullet point line below
+  TO ADD MORE: duplicate a row below
 -->
 
 | 🎯 | **National Level Rifle Shooter** — Represented at the National level in 10m Air Rifle |
 |---|---|
 | 🥇 | **Gold Medal — URJA (TIET)** — Rifle Shooting at Thapar Institute's sports fest |
 | 🥁 | **Indian Classical Tabla** — Learning since the age of 5; discipline, rhythm, consistency |
-| 🔬 | **Research Contributor** — Published work in AI-based Solar PV Forecasting (Paper 3) |
+| 🔬 | **Research Contributor** — Paper on Solar PV Forecasting accepted at IEEE ICIIS 2026 |
+| 💻 | **Cyber AI Hackathon 2026** — Participated with Team Omnitrix (University of Derby, UK) |
 
 ---
 
@@ -379,6 +433,18 @@ const ashutosh = {
 <a href="https://github.com/SniperPhantom02" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-SniperPhantom02-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<!-- CREDLY + GOOGLE SKILLS: paste your profile URLs, then uncomment
+<br/><br/>
+
+<a href="YOUR_CREDLY_PROFILE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_GOOGLE_SKILLS_PROFILE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Skills-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+-->
 
 </div>
 
